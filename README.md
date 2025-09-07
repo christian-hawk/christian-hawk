@@ -148,9 +148,9 @@ No-Code/Low-Code Platforms • Intelligent Workflows
 
 ## 📊 **GitHub Activity**
 
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=christian-hawk&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hawk&layout=compact&theme=radical)
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=christian-hawk&show_icons=true&theme=github_dark&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hawk&layout=donut&theme=github_dark&hide_border=true)
 ---
 
 ## 🌐 **Remote Work Excellence**
@@ -204,4 +204,4 @@ I'm always interested in challenging projects involving:
 
 ---
 
-*Building secure, scalable, and maintainable solutions for international clients since 2008.*
+*Building secure, scalable, and maintainable solutions for international clients since 2003.*
