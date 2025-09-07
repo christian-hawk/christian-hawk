@@ -129,6 +129,7 @@ No-Code/Low-Code Platforms • Intelligent Workflows
 
 ### **Certifications & Education**
 - **Cloud Native Development** with Node.js, Docker, and Kubernetes
+- **Programming with Google Go Specialization** - University of California, Irvine
 - **Systems Analysis and Software Development** - Anhanguera Educacional
 - **Social Sciences** - Pontifícia Universidade Católica de São Paulo
 
