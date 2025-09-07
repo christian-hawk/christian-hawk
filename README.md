@@ -148,9 +148,8 @@ No-Code/Low-Code Platforms • Intelligent Workflows
 
 ## 📊 **GitHub Activity**
 
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=christian-hawk&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hawk&layout=donut&theme=transparent&hide_border=true)
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=christian-hawk&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-hawk&layout=donut&theme=dark&hide_border=true)
 ---
 
 ## 🌐 **Remote Work Excellence**
