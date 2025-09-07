@@ -30,7 +30,6 @@ Senior Software Engineer with **16+ years** of experience specializing in **Iden
 ### **International Client Success**
 - **Top Rated Plus** on Upwork with **3,000+ hours** delivered
 - **5.0/5.0 ratings** across all major projects
-- **Rate evolution:** $16/hr → $49/hr demonstrating consistent value delivery
 
 ---
 
